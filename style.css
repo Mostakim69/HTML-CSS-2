@@ -229,13 +229,13 @@
 }
 .date {
     position: absolute;
-    top: 48%;
+    top: 50%;
     left: 20%;
     background: #4caf50;
     color: white;
     padding: 3% 2%;
     border-radius: 15px;
-    margin-top: 10px;
+    /* margin-top: 10px; */
 }
 #date1{
     width: 50%;

@@ -135,7 +135,21 @@
 
 
 /* our stories */
+@media screen and (max-width: 898px) {
+    #date1{
+        top: 43%;
+    }
+}
+@media screen and (max-width: 795px) {
+    .date{
 
+        top: 40%;
+        font-size: 10px;
+    }
+    #date1{
+        top: 40%;
+    }
+}
 @media screen and (max-width: 576px){
 
     .stories-container {
@@ -149,8 +163,46 @@
     .featured{
         display: none;
     }
+    .date{
+
+        top: 54%;
+        font-size: 10px;
+    }
 
 }
+
+@media screen and (max-width: 497px) {
+    .date{
+
+        top: 48%;
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 465px) {
+    .date{
+
+        top: 45%;
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 410px) {
+    .date{
+
+        top: 40%;
+        font-size: 10px;
+    }
+}
+
+
+
+@media screen and (max-width: 695px) {
+    #date1{
+        top: 36%;
+    }
+}
+
 
 
 
