@@ -149,21 +149,20 @@
     border-radius: 10px;
     text-align: center;
     width: 250px;
-    background: linear-gradient(135deg, #ff9a9e, #fad0c4);
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 }
 .card.kinder {
-    background: linear-gradient(135deg, #ff9a9e, #fad0c4); /* Pink to Light Peach */
+    background: linear-gradient(135deg, #ff9a9e, #ecd8d2); /* Pink to Light Peach */
     color: #333;
 }
 
 .card.elementary {
-    background: linear-gradient(135deg, #a1c4fd, #c2e9fb); /* Blue to Light Sky Blue */
+    background: linear-gradient(135deg, #a1c4fd, #e8f2f7); /* Blue to Light Sky Blue */
     color: #333;
 }
 
 .card.middle {
-    background: linear-gradient(135deg, #fbc2eb, #a6c1ee); /* Purple to Light Blue */
+    background: linear-gradient(135deg, #fbc2eb, #78808d); /* Purple to Light Blue */
     color: #333;
 }
 .card img {
