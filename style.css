@@ -166,6 +166,33 @@
     background: linear-gradient(135deg, #fbc2eb, #a6c1ee); /* Purple to Light Blue */
     color: #333;
 }
+.card img {
+    width: 100px;
+    height: auto;
+    margin-bottom: 15px;
+}
+.card h3 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.card p {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+.card a {
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #ff9900;
+}
+
+.card a:hover {
+    text-decoration: underline;
+}
 .button-20{
     display: flex;
     align-items: center;
